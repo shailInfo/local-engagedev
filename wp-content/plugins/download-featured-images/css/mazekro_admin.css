@@ -1,0 +1,36 @@
+/* 
+    Document   : mazekro_admin
+    Created on : 17 Jun, 2016, 10:30:42 AM
+    Author     : Shaile
+    Description:
+        This file is used for admin style.
+*/
+
+.content-type-listing{
+    padding: 30px;
+    width: 50%;
+    
+}
+.featured-title{    
+   border-bottom: 10px solid #5e250c;
+    height: 99px;
+    margin-top: 40px;
+    width: 50%;
+}
+.featured-title > a {
+    float: left;
+    padding: 5px 24px;
+}
+#save-featured-options li {
+    width: 50%;
+}
+#save-featured-options ul li input[type="checkbox"]{
+    float: right;
+}
+
+
+#save-featured-options .featured-submit {
+    text-align: center;
+    width: 50%;
+}
+
